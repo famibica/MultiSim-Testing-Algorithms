@@ -1,0 +1,34 @@
+
+; Multi2Sim 4.2 - A Simulation Framework for CPU-GPU Heterogeneous Computing
+; Please use command 'm2s --help' for a list of command-line options.
+; Simulation alpha-numeric ID: b4QHM
+
+
+;
+; Simulation Statistics Summary
+;
+
+[ General ]
+RealTime = 5.05 [s]
+SimEnd = ContextsFinished
+SimTime = 2936136.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 2936137
+
+[ x86 ]
+RealTime = 5.05 [s]
+Instructions = 2538207
+InstructionsPerSecond = 503037
+Contexts = 1
+Memory = 10711040
+FastForwardInstructions = 0
+CommittedInstructions = 2259025
+CommittedInstructionsPerCycle = 0.7695
+CommittedMicroInstructions = 3763572
+CommittedMicroInstructionsPerCycle = 1.282
+BranchPredictionAccuracy = 0.9633
+SimTime = 2935885.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 2935885
+CyclesPerSecond = 581851
+

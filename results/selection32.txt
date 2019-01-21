@@ -1,0 +1,78 @@
+
+; Multi2Sim 4.2 - A Simulation Framework for CPU-GPU Heterogeneous Computing
+; Please use command 'm2s --help' for a list of command-line options.
+; Simulation alpha-numeric ID: v9Lvz
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-1] ignored, referring to x86 Core 0, Thread 1.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-2] ignored, referring to x86 Core 0, Thread 2.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-3] ignored, referring to x86 Core 0, Thread 3.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-4] ignored, referring to x86 Core 0, Thread 4.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-5] ignored, referring to x86 Core 0, Thread 5.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-6] ignored, referring to x86 Core 0, Thread 6.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-7] ignored, referring to x86 Core 0, Thread 7.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-4-thread-0] ignored, referring to x86 Core 4, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-5-thread-0] ignored, referring to x86 Core 5, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-6-thread-0] ignored, referring to x86 Core 6, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-7-thread-0] ignored, referring to x86 Core 7, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+
+;
+; Simulation Statistics Summary
+;
+
+[ General ]
+RealTime = 136.45 [s]
+SimEnd = ContextsFinished
+SimTime = 32982599.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 32982600
+
+[ x86 ]
+RealTime = 136.05 [s]
+Instructions = 36912019
+InstructionsPerSecond = 271307
+Contexts = 4
+Memory = 41574400
+FastForwardInstructions = 0
+CommittedInstructions = 36487136
+CommittedInstructionsPerCycle = 1.106
+CommittedMicroInstructions = 68262391
+CommittedMicroInstructionsPerCycle = 2.07
+BranchPredictionAccuracy = 0.9965
+SimTime = 32982093.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 32982093
+CyclesPerSecond = 242421
+

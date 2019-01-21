@@ -1,0 +1,62 @@
+
+; Multi2Sim 4.2 - A Simulation Framework for CPU-GPU Heterogeneous Computing
+; Please use command 'm2s --help' for a list of command-line options.
+; Simulation alpha-numeric ID: AO5gi
+
+warning: configs/mem.cfg: section [Entry x86-core-1-thread-0] ignored, referring to x86 Core 1, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-2-thread-0] ignored, referring to x86 Core 2, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-3-thread-0] ignored, referring to x86 Core 3, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-4-thread-0] ignored, referring to x86 Core 4, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-5-thread-0] ignored, referring to x86 Core 5, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-6-thread-0] ignored, referring to x86 Core 6, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-7-thread-0] ignored, referring to x86 Core 7, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+
+;
+; Simulation Statistics Summary
+;
+
+[ General ]
+RealTime = 229.13 [s]
+SimEnd = ContextsFinished
+SimTime = 56428245.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 56428246
+
+[ x86 ]
+RealTime = 229.12 [s]
+Instructions = 113850447
+InstructionsPerSecond = 496898
+Contexts = 1
+Memory = 10428416
+FastForwardInstructions = 0
+CommittedInstructions = 46585449
+CommittedInstructionsPerCycle = 0.8256
+CommittedMicroInstructions = 90571942
+CommittedMicroInstructionsPerCycle = 1.605
+BranchPredictionAccuracy = 0.8696
+SimTime = 56428079.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 56428079
+CyclesPerSecond = 246279
+

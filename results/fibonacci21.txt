@@ -1,0 +1,86 @@
+
+; Multi2Sim 4.2 - A Simulation Framework for CPU-GPU Heterogeneous Computing
+; Please use command 'm2s --help' for a list of command-line options.
+; Simulation alpha-numeric ID: tyAfK
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-2] ignored, referring to x86 Core 0, Thread 2.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-3] ignored, referring to x86 Core 0, Thread 3.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-4] ignored, referring to x86 Core 0, Thread 4.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-5] ignored, referring to x86 Core 0, Thread 5.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-6] ignored, referring to x86 Core 0, Thread 6.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-0-thread-7] ignored, referring to x86 Core 0, Thread 7.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-1-thread-0] ignored, referring to x86 Core 1, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-2-thread-0] ignored, referring to x86 Core 2, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-3-thread-0] ignored, referring to x86 Core 3, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-4-thread-0] ignored, referring to x86 Core 4, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-5-thread-0] ignored, referring to x86 Core 5, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-6-thread-0] ignored, referring to x86 Core 6, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+warning: configs/mem.cfg: section [Entry x86-core-7-thread-0] ignored, referring to x86 Core 7, Thread 0.
+	This section refers to a core or thread that does not currently exists.
+	Please review your x86 configuration file if this behavior is not desired.
+
+
+;
+; Simulation Statistics Summary
+;
+
+[ General ]
+RealTime = 5.56 [s]
+SimEnd = ContextsFinished
+SimTime = 2993867.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 2993868
+
+[ x86 ]
+RealTime = 5.56 [s]
+Instructions = 2541943
+InstructionsPerSecond = 457423
+Contexts = 1
+Memory = 10711040
+FastForwardInstructions = 0
+CommittedInstructions = 2259009
+CommittedInstructionsPerCycle = 0.7546
+CommittedMicroInstructions = 3763549
+CommittedMicroInstructionsPerCycle = 1.257
+BranchPredictionAccuracy = 0.963
+SimTime = 2993724.00 [ns]
+Frequency = 1000 [MHz]
+Cycles = 2993724
+CyclesPerSecond = 538722
+
